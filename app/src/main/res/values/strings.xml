@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VideoPalyer</string>
+    <string name="everyday">每日精选</string>
+    <string name="findmore">发现更多</string>
+    <string name="hot">热门排行</string>
+    <string name="login">登录或注册</string>
+    <string name="line_brower">离线缓存</string>
+    <string name="hot_movie">热映电影</string>
+    <string name="share">分享</string>
+    <string name="more">更多</string>
+    <string name="about">关于</string>
+    <string name="theme">主题</string>
+    <string name="time">按时间排序</string>
+    <string name="shareph">分享排行</string>
+    <string name="week">周排行</string>
+    <string name="month">月排行</string>
+    <string name="total">总排行</string>
+</resources>
